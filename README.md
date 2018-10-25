@@ -1,4 +1,4 @@
-## Statistical analysis tools for the Boston Lung Cancer Survival Cohort (BLCSC) study
+# Statistical analysis tools for the Boston Lung Cancer Survival Cohort (BLCSC) study
 
 The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology cohort of 11,164 lung cancer cases, enrolled at the Massachusetts General Hospital (MGH), the
 Dana-Farber Cancer Institute (DFCI), and the Brigham and Women's Hospital since 1992. Dr. David C. Christiani (Harvard TH Chan School of Public Health) is the project director of the BLCSC study, which has collected detailed demographic, smoking, occupational, dietary information, in addition to pathology, radiomics, treatments history, oncogenic mutation status, serum, white blood cells, DNA, and tumor tissues. 
@@ -21,7 +21,7 @@ Dana-Farber Cancer Institute (DFCI), and the Brigham and Women's Hospital since 
   * [paper](https://www.stt.msu.edu/users/hhong/2018-CMC-0715-4p.pdf)
   * [R code](https://github.com/younghhk/software/blob/master/Lq.R)
   
-### Integrated powered density: screening ultrahigh dimensional covariates with survival outcome, *Biometrics*, 2018 
+### Integrated powered density: screening ultrahigh dimensional covariates with survival outcome
   * [paper](https://www.stt.msu.edu/users/hhong/Hong_et_al-2017-Biometrics.pdf)
   * [R code](https://github.com/younghhk/software/blob/master/IPOD.R)
  
