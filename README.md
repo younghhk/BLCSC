@@ -10,7 +10,7 @@ Our mission is to inform the cancer community of predictive or prognostic marker
   
 #### Partition-based screening
  * Leveraging prior grouping information on covariates, the partition-based screening methods for ultrahigh-dimensional variables is proposed in the framework of generalized linear models.
- ![Image|30%](https://github.com/younghhk/BLCSC/blob/master/pbsfig.png)
+ ![Image|512x397,30%](https://github.com/younghhk/BLCSC/blob/master/pbsfig.png)
  Fig. Combined partition-based screening statistics are shown on seven axial slices that cut through eight important brain regions, which have more than 60 selected voxels.
   * [paper](https://www.stt.msu.edu/users/hhong/pbs.pdf)  &nbsp; &nbsp;&nbsp; &nbsp;  [R code]
   
