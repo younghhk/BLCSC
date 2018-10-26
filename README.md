@@ -5,7 +5,7 @@ The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology co
 
 #### Covariance-insured screening
  * By incorporating the inter-feature dependence, a covariance-insured screening approach is proposed to identify predictors that are jointly informative but marginally weakly associated with outcomes.
- * [paper](https://www.stt.msu.edu/users/hhong/2018-CIS_CSDA_final%20%281%29.pdf) \\\\\   [R code]
+ * [paper](https://www.stt.msu.edu/users/hhong/2018-CIS_CSDA_final%20%281%29.pdf) ~~~~~  [R code]
   
 #### Partition-based screening
  * Leveraging prior grouping information on covariates, the partition-based screening methods for ultrahigh-dimensional variables is proposed in the framework of generalized linear models.
