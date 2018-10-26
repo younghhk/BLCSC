@@ -28,7 +28,7 @@ Figure. Combined partition-based screening statistics are shown on seven axial s
  * This method aims to incorporate weak signals in variable selection,
 estimation, and prediction.
  * [paper](https://www.stt.msu.edu/users/hhong/asmb.2340%20%281%29.pdf) &nbsp; &nbsp;&nbsp; &nbsp;   [R code]
-
+ <img src="Images/WBC.png" width="400">
 
 #### The Lq-norm learning for ultrahigh-dimensional survival data: an integrated framework
 * The Lq-norm learning is proposed to detect predictors with various levels of impact, such as short- or long-term impact, on censored
