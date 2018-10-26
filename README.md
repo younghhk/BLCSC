@@ -2,6 +2,7 @@
 
 The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology cohort of 11,164 lung cancer cases, enrolled at the Massachusetts General Hospital (MGH), the Dana-Farber Cancer Institute (DFCI), and the Brigham and Women's Hospital since 1992. Dr. David C. Christiani (Harvard TH Chan School of Public Health) is the project director of the BLCSC study, which has collected detailed demographic, smoking, occupational, dietary information, in addition to pathology, radiomics, treatments history, oncogenic mutation status, serum, white blood cells, DNA, and tumor tissues. 
 
+Our mission is to inform the cancer community of predictive or prognostic markers that are critical to the precision medicine.
 
 #### Covariance-insured screening
  * By incorporating the inter-feature dependence, a covariance-insured screening approach is proposed to identify predictors that are jointly informative but marginally weakly associated with outcomes.
@@ -27,6 +28,6 @@ outcome.
    * [paper](https://www.stt.msu.edu/users/hhong/Hong_et_al-2017-Biometrics.pdf)  &nbsp; &nbsp;&nbsp; &nbsp;  [R code](https://github.com/younghhk/software/blob/master/IPOD.R)
  
 #### Conditional screening for survival data
- * The recently developed variable screening methods, though powerful in many practical setting,  are less powerful in detecting marginally weak while jointly important signals. A new conditional screening method for survival outcome data computes the marginal contribution of each biomarker given priorily known biological information.
+ * The recently developed variable screening methods, though powerful in many practical setting,  are less powerful in detecting marginally weak while jointly important signals. A new conditional screening method for survival outcome data computes the marginal contribution of each biomarker given priorly known biological information.
   * [paper](https://www.stt.msu.edu/users/hhong/conditional_survival.pdf)  &nbsp; &nbsp;&nbsp; &nbsp; [R code](https://github.com/younghhk/software/blob/master/CS.R)
 
