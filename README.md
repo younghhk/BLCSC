@@ -10,7 +10,9 @@ Our mission is to inform the cancer community of predictive or prognostic marker
   
 #### Partition-based screening
  * Leveraging prior grouping information on covariates, the partition-based screening methods for ultrahigh-dimensional variables is proposed in the framework of generalized linear models.
+ ![Optional Text](https://github.com/younghhk/BLCSC/blob/master/pbsfig.png)
   * [paper](https://www.stt.msu.edu/users/hhong/pbs.pdf)  &nbsp; &nbsp;&nbsp; &nbsp;  [R code]
+  
 
 #### Weak signals in high-dimensional regression: Detection, estimation and prediction
  * This method aims to incorporate weak signals in variable selection,
