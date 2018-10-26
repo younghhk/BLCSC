@@ -9,24 +9,24 @@ The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology co
   
 #### Partition-based screening
  * Leveraging prior grouping information on covariates, the partition-based screening methods for ultrahigh-dimensional variables is proposed in the framework of generalized linear models.
-  * [paper](https://www.stt.msu.edu/users/hhong/pbs.pdf)    [R code]
+  * [paper](https://www.stt.msu.edu/users/hhong/pbs.pdf)  &nbsp; &nbsp;&nbsp; &nbsp;  [R code]
 
 #### Weak signals in high-dimensional regression: Detection, estimation and prediction
  * This method aims to incorporate weak signals in variable selection,
 estimation, and prediction.
- * [paper](https://www.stt.msu.edu/users/hhong/asmb.2340%20%281%29.pdf)    [R code]
+ * [paper](https://www.stt.msu.edu/users/hhong/asmb.2340%20%281%29.pdf) &nbsp; &nbsp;&nbsp; &nbsp;   [R code]
 
 
 #### The Lq-norm learning for ultrahigh-dimensional survival data: an integrated framework
 * The Lq-norm learning is proposed to detect predictors with various levels of impact, such as short- or long-term impact, on censored
 outcome.
- * [paper](https://www.stt.msu.edu/users/hhong/2018-CMC-0715-4p.pdf)    [R code](https://github.com/younghhk/software/blob/master/Lq.R)
+ * [paper](https://www.stt.msu.edu/users/hhong/2018-CMC-0715-4p.pdf) &nbsp; &nbsp;&nbsp; &nbsp;   [R code](https://github.com/younghhk/software/blob/master/Lq.R)
   
 #### Integrated powered density (IPOD): screening ultrahigh dimensional covariates with survival outcome
  *  With a flexible weighting scheme, Kolmogorov statistic as a special case,  IPOD method can detect early or late impact on censored outcome.
-   * [paper](https://www.stt.msu.edu/users/hhong/Hong_et_al-2017-Biometrics.pdf)    [R code](https://github.com/younghhk/software/blob/master/IPOD.R)
+   * [paper](https://www.stt.msu.edu/users/hhong/Hong_et_al-2017-Biometrics.pdf)  &nbsp; &nbsp;&nbsp; &nbsp;  [R code](https://github.com/younghhk/software/blob/master/IPOD.R)
  
 #### Conditional screening for survival data
  * The recently developed variable screening methods, though powerful in many practical setting,  are less powerful in detecting marginally weak while jointly important signals. A new conditional screening method for survival outcome data computes the marginal contribution of each biomarker given priorily known biological information.
-  * [paper](https://www.stt.msu.edu/users/hhong/conditional_survival.pdf)   [R code](https://github.com/younghhk/software/blob/master/CS.R)
+  * [paper](https://www.stt.msu.edu/users/hhong/conditional_survival.pdf)  &nbsp; &nbsp;&nbsp; &nbsp; [R code](https://github.com/younghhk/software/blob/master/CS.R)
 
