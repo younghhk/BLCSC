@@ -44,3 +44,7 @@ outcome.
 #### Conditional screening for survival data
  * The recently developed variable screening methods, though powerful in many practical setting,  are less powerful in detecting marginally weak while jointly important signals. A new conditional screening method for survival outcome data computes the marginal contribution of each biomarker given priorly known biological information.
   * [paper](https://www.stt.msu.edu/users/hhong/conditional_survival.pdf)  &nbsp; &nbsp;&nbsp; &nbsp; [R code](https://github.com/younghhk/software/blob/master/R/CS.R)
+
+
+#### Support and contact details
+Contact us on hhong@msu.edu for any comments or issues.
