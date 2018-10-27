@@ -35,6 +35,10 @@ Figure. The role of weak but jointly important variables in distinguishing norma
 #### The Lq-norm learning for ultrahigh-dimensional survival data: an integrated framework
 * The Lq-norm learning is proposed to detect predictors with various levels of impact, such as short- or long-term impact, on censored
 outcome.
+<img src="Images/Lqfig.png" width="400">
+
+Figure. Comparisons of the Cramer–von Mises and Kolmogorov screening statistics in two hypothetical scenarios.
+
  * [paper](https://www.stt.msu.edu/users/hhong/2018-CMC-0715-4p.pdf) &nbsp; &nbsp;&nbsp; &nbsp;   [R code](https://github.com/younghhk/software/blob/master/R/Lq.R)
   
 #### Integrated powered density (IPOD): screening ultrahigh dimensional covariates with survival outcome
