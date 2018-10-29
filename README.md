@@ -2,7 +2,7 @@
 
 The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology cohort of 11,164 lung cancer cases, enrolled at the Massachusetts General Hospital (MGH), the Dana-Farber Cancer Institute (DFCI), and the Brigham and Women's Hospital since 1992. Dr. David C. Christiani (Harvard TH Chan School of Public Health) is the project director of the BLCSC study, which has collected detailed demographic, smoking, occupational, dietary information, in addition to pathology, radiomics, treatments history, oncogenic mutation status, serum, white blood cells, DNA, and tumor tissues. 
 
-Our mission is to inform the cancer community of predictive or prognostic markers that are critical to the precision medicine.
+Our primary goal is to inform the cancer community of predictive or prognostic markers that are critical to the precision medicine.
 
 #### Contributors
 
