@@ -4,7 +4,7 @@ The Boston Lung Cancer Survival Cohort (BLCSC) study is a cancer epidemiology co
 
 Our mission is to inform the cancer community of predictive or prognostic markers that are critical to the precision medicine.
 
-#### Contributors for this project:
+#### Contributors
 
 University of Michigan: Yi Li, Jian Kang, Yanming Li, Kevin He, Zhe Fei
 
